@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MouseHanger">
+    <output-path>$PROJECT_DIR$/out/artifacts/MouseHanger</output-path>
+    <root id="archive" name="MouseHanger.jar">
+      <element id="module-output" name="StickFigureHanger" />
+    </root>
+  </artifact>
+</component>

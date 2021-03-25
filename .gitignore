@@ -1,0 +1,5 @@
+#ignore builds
+
+out
+MouseHanger.jar
+MouseHangerPendulum.jar
